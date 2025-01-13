@@ -1,4 +1,4 @@
-This project focuses on leveraging Power BI to transform raw data into meaningful visualizations and actionable insights. By utilizing Power BI's advanced data modeling and visualization capabilities, the project aims to:
+This project focuses on leveraging Power BI to transform raw survey data into meaningful visualizations and actionable insights. By utilizing Power BI's advanced data modeling and visualization capabilities, the project aims to:
 
     > Simplify the survey data through an intuitive dashboard.
     
